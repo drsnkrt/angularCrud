@@ -2,7 +2,7 @@ app.controller("reportsController", function ($scope) {
 
     $scope.dizi = [{
         "testID": "ASD-12321-ASSLKDJASKLG",
-        "bayiiAd": "EGEMSOFT-2",
+        "bayiiAd": "kurtsoft-2",
         "baTarih": "05.10.2009",
         "biTarih": "05.10.2009",
         "serinu": "ASDF1236ASDF",
@@ -10,7 +10,7 @@ app.controller("reportsController", function ($scope) {
     },
         {
             "testID": "ASD-12321-ASSLKDJASKLG",
-            "bayiiAd": "EGEMSOFT-2",
+            "bayiiAd": "kurtsoft-2",
             "baTarih": "05.10.2009",
             "biTarih": "05.11.2009",
             "serinu": "ASDF1236ASDF",
@@ -18,7 +18,7 @@ app.controller("reportsController", function ($scope) {
         },
         {
             "testID": "ASD-12321-ASSLKDJASKLG",
-            "bayiiAd": "EGEMSOFT-4",
+            "bayiiAd": "kurtsoft-4",
             "baTarih": "05.10.2009",
             "biTarih": "05.10.2010",
             "serinu": "ASDF1236ASDF",
@@ -26,7 +26,7 @@ app.controller("reportsController", function ($scope) {
         },
         {
             "testID": "ASD-12321-ASSLKDJASKLG",
-            "bayiiAd": "EGEMSOFT-4",
+            "bayiiAd": "kurtsoft-4",
             "baTarih": "05.10.2009",
             "biTarih": "05.10.2011",
             "serinu": "ASDF1236ASDF",
@@ -34,7 +34,7 @@ app.controller("reportsController", function ($scope) {
         },
         {
             "testID": "ASD-12321-ASSLKDJASKLG",
-            "bayiiAd": "EGEMSOFT-5",
+            "bayiiAd": "kurtsoft-5",
             "baTarih": "05.10.2009",
             "biTarih": "05.10.2019",
             "serinu": "ASDF1236ASDF",
